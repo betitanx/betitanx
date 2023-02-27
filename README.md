@@ -1,3 +1,1 @@
-- Hi, my name is **Bernardo** and I'm 15.
-- I like programmation  and techonology.
-- I’m currently learning programmation and web hacking _(ethical hacker)_
+
